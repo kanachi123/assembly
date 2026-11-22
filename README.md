@@ -1,3 +1,3 @@
-# assembly
+# assembly-Nasm
 
-*** bitreverse ***
+***bitreverse***
